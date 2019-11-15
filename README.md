@@ -8,6 +8,9 @@ Deal Ubuntu python2.7 download matplotlib problem
   python setup.py install
     if 2. _posixsubprocess.c  do not have .......
       solve: sudo apt-get install python-dev
+      
+ ImportError:No module named_tkinter,please install the python-tk package
+ solve: sudo apt-get install python-tk
  
 
 
